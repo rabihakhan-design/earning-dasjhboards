@@ -1,0 +1,11 @@
+- [x] Redesign the site in the selected premium direction using a light theme
+- [x] Add professional real-world photos and subtle animations
+- [x] Verify desktop and mobile presentation and interactions
+- [x] Package the updated source as a ZIP
+- [x] Add relevant real photography wherever pages lack imagery
+- [x] Add page-wide motion and interactive states across all pages
+- [x] Make every visible button and link perform a useful action
+- [x] Verify all routes and controls, then package the final ZIP
+- [x] Recreate the supplied admin screenshots with shared navigation and professional styling
+- [x] Add working frontend search, filters, pagination, and company dialog
+- [x] Verify dashboard and invoice interactions at desktop and mobile widths
